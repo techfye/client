@@ -1,0 +1,14 @@
+.thankyouImg{
+    width: 40%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.thankyouBody{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    vertical-align: middle;
+}

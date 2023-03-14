@@ -1,0 +1,12 @@
+
+.thankyouBody{
+    height: 100vh;
+    display: flex;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+}
+
+a {
+    color: orange;
+}
